@@ -2,6 +2,7 @@
 	"savedHashes":
 	{
 		"Content/Assets/Assets_Berlin/Line123/siemens_1/TexMatMesh/QMI_siemens_1_ID1.uasset": "e65189b5ca44a2ef15ce552636839f30",
-		"Content/Gameplay/Traffic/BP_TrafficLaneBerlin.uasset": "aa3233b7046fa71c5c78f5982dc04ae0"
+		"Content/Gameplay/Traffic/BP_TrafficLaneBerlin.uasset": "aa3233b7046fa71c5c78f5982dc04ae0",
+		"Content/Assets/Vegetation/Bushes_final/FT/FT_bush01.uasset": "5e2d0d77b04e0c15223061cc19f8e06c"
 	}
 }
