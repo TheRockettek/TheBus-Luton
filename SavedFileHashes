@@ -5,6 +5,7 @@
 		"Content/Gameplay/Traffic/BP_TrafficLaneBerlin.uasset": "aa3233b7046fa71c5c78f5982dc04ae0",
 		"Content/Assets/Vegetation/Bushes_final/FT/FT_bush01.uasset": "5e2d0d77b04e0c15223061cc19f8e06c",
 		"Content/Generated_Streets/Splines/Linie300/GreeneryWall_V1.uasset": "c3b09712b0662cb1345ad0a0e3278be5",
-		"Content/Generated_Streets/Materials/MI_Asphalt_LaneMarkings_2.uasset": "96fb06a873462dd1a6cc0113bc61e34f"
+		"Content/Generated_Streets/Materials/MI_Asphalt_LaneMarkings_2.uasset": "96fb06a873462dd1a6cc0113bc61e34f",
+		"Content/Generated_Streets/StreetMarkings/Materials/M_LaneMarking_Spline_Thin_Short_Yellow.uasset": "6132d5f222c17aa393e9eed24dfcaa40"
 	}
 }
