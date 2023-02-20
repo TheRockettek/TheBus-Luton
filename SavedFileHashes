@@ -6,6 +6,8 @@
 		"Content/Assets/Vegetation/Bushes_final/FT/FT_bush01.uasset": "5e2d0d77b04e0c15223061cc19f8e06c",
 		"Content/Generated_Streets/Splines/Linie300/GreeneryWall_V1.uasset": "c3b09712b0662cb1345ad0a0e3278be5",
 		"Content/Generated_Streets/Materials/MI_Asphalt_LaneMarkings_2.uasset": "96fb06a873462dd1a6cc0113bc61e34f",
-		"Content/Generated_Streets/StreetMarkings/Materials/M_LaneMarking_Spline_Thin_Short_Yellow.uasset": "6132d5f222c17aa393e9eed24dfcaa40"
+		"Content/Generated_Streets/StreetMarkings/Materials/M_LaneMarking_Spline_Thin_Short_Yellow.uasset": "6132d5f222c17aa393e9eed24dfcaa40",
+		"Content/Generated_Streets/StreetMarkings/BP_Rectangular_Marking.uasset": "93e1f5856835412360d3bdc4af5da1b2",
+		"Content/ModTemplates/HowTo/HowTo_01_Roads.umap": "8506696e0cb6e1bebf527eea1cbf419d"
 	}
 }
