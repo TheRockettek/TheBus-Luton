@@ -4,6 +4,8 @@ RoadmMap-Generator output messages from generation: Luton
 
 Missing connections: Roads (28), Lanes(28)
 -----------------------------------------------------------------------------------------------------------------------------
+1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/1/KA/GFU0TASFQNWY1MBKY0L3S0/BP_TrafficLaneBerlin_C_UAID_0CDD24851456876701_1661666702'
+1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/8/60/TRUMTWRMZ6SQR42S70IK1N/BP_TrafficLaneBerlin_C_UAID_0CDD24851456876701_1646184701'
 1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/4/H5/9CVF3ANEEP6KST2X9467AT/BP_TrafficLaneBerlin_C_UAID_0CDD24851456376601_1647373565'
 1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/0/D9/3G51D56YEGDF5UWRYPMAH7/BP_TrafficLaneBerlin_C_UAID_0CDD24851456966701_1917764421'
 1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/5/61/BGE3YMLWX4VCGVFNBA6F0P/BP_TrafficLaneBerlin_C_UAID_0CDD24851456966701_1916509420'
@@ -23,8 +25,6 @@ Missing connections: Roads (28), Lanes(28)
 1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/A/Y5/FNIZSWMCHRTMY8O8TVOBK9/BP_TrafficLaneBerlin_C_UAID_0CDD24851456396601_1714592955'
 1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/6/IA/151UHCNZ963WW3YQBVJ3A2/BP_TrafficLaneBerlin_C_UAID_0CDD24851456466601_1415234226'
 1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/E/QY/CY3BJZWGU69NY11E9MNXEU/BP_TrafficLaneBerlin_C_UAID_0CDD24851456466601_1374151224'
-1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/1/KA/GFU0TASFQNWY1MBKY0L3S0/BP_TrafficLaneBerlin_C_UAID_0CDD24851456876701_1661666702'
-1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/8/60/TRUMTWRMZ6SQR42S70IK1N/BP_TrafficLaneBerlin_C_UAID_0CDD24851456876701_1646184701'
 1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/2/2J/59VCEQO8L80P0H1BML1GEL/BP_TrafficLaneBerlin_C_UAID_0CDD248514563D6701_1534083719'
 1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/B/37/BG1T7ZYQ0KPX4T6DBUDAMA/BP_TrafficLaneBerlin_C_UAID_0CDD248514563D6701_1643158721'
 1 unconnected lanes in road '/Game/__ExternalActors__/Maps/Luton/Luton/D/JC/8NQYPOKTGS96GDFRJ1GATN/BP_TrafficLaneBerlin_C_UAID_0CDD24851456376601_1472648563'
