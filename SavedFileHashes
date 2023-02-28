@@ -9,6 +9,11 @@
 		"Content/Generated_Streets/StreetMarkings/Materials/M_LaneMarking_Spline_Thin_Short_Yellow.uasset": "6132d5f222c17aa393e9eed24dfcaa40",
 		"Content/Generated_Streets/StreetMarkings/BP_Rectangular_Marking.uasset": "93e1f5856835412360d3bdc4af5da1b2",
 		"Content/ModTemplates/HowTo/HowTo_01_Roads.umap": "8506696e0cb6e1bebf527eea1cbf419d",
-		"Content/Material_Library/Material/Street/MI_Road_E_CBS_90.uasset": "dcfc5eff2a64b7436e8bd4b9f654e885"
+		"Content/Material_Library/Material/Street/MI_Road_E_CBS_90.uasset": "dcfc5eff2a64b7436e8bd4b9f654e885",
+		"Content/Assets/Vegetation/Trees_final/FT/DetailForest/FT_Detail_Forest_Beech_A.uasset": "d9411e0de11f86d05d99a2002928fa3a",
+		"Content/Assets/Vegetation/Trees_final/FT/DetailForest/FT_Detail_Forest_Beech_B.uasset": "645d6414665730c298eeeef9a91cdafc",
+		"Content/Assets/Vegetation/Bushes_final/FT/FT_bush06_Detail_Forest.uasset": "7188a46e638d7f8ac9cadd3edb0dc152",
+		"Content/Assets/Vegetation/Bushes_final/FT/FT_bush03.uasset": "756e8bbf929b98d16bcdfa3b153cb595",
+		"Content/Assets/Vegetation/Bushes_final/FT/FT_bush04.uasset": "5de41bd833ed7360257bd685e4c01102"
 	}
 }
